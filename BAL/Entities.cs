@@ -11,4 +11,10 @@ namespace BAL
         public int DesignationID { get; set; }
         public string DesignationName { get; set; }
     }
+
+    public class EmploymentStatus
+    {
+        public int EmploymentStatusID { get; set; }
+        public string EmploymentStatusName { get; set; }
+    }
 }

@@ -6,3 +6,11 @@ F:\Assignment\AssignmentProject\BAL\obj\Debug\BAL.csprojResolveAssemblyReference
 F:\Assignment\AssignmentProject\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
 F:\Assignment\AssignmentProject\BAL\obj\Debug\BAL.dll
 F:\Assignment\AssignmentProject\BAL\obj\Debug\BAL.pdb
+F:\GitHub\BMAssignment\BAL\bin\Debug\BAL.dll
+F:\GitHub\BMAssignment\BAL\bin\Debug\BAL.pdb
+F:\GitHub\BMAssignment\BAL\bin\Debug\DAL.dll
+F:\GitHub\BMAssignment\BAL\bin\Debug\DAL.pdb
+F:\GitHub\BMAssignment\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+F:\GitHub\BMAssignment\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+F:\GitHub\BMAssignment\BAL\obj\Debug\BAL.dll
+F:\GitHub\BMAssignment\BAL\obj\Debug\BAL.pdb

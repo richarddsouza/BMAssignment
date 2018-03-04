@@ -19,8 +19,19 @@ namespace DAL
         public static DataTable GetAllDesignation()
         {
             DataTable dt = new DataTable();
+            dt = ExecuteQuery(Constants.GetAllDesignation);
 
-            dt = ExecuteQuery(Constants.getAllDesignation);
+            return dt;
+        }
+
+        /// <summary>
+        /// Method to get list of all employment status
+        /// </summary>
+        /// <returns>Data table</returns>
+        public static DataTable GetAllEmploymentStatus()
+        {
+            DataTable dt = new DataTable();
+            dt = ExecuteQuery(Constants.GetAllEmploymentStatus);
 
             return dt;
         }

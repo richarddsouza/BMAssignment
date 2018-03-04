@@ -4,3 +4,9 @@ F:\Assignment\AssignmentProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference
 F:\Assignment\AssignmentProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 F:\Assignment\AssignmentProject\DAL\obj\Debug\DAL.dll
 F:\Assignment\AssignmentProject\DAL\obj\Debug\DAL.pdb
+F:\GitHub\BMAssignment\DAL\bin\Debug\DAL.dll
+F:\GitHub\BMAssignment\DAL\bin\Debug\DAL.pdb
+F:\GitHub\BMAssignment\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\GitHub\BMAssignment\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\GitHub\BMAssignment\DAL\obj\Debug\DAL.dll
+F:\GitHub\BMAssignment\DAL\obj\Debug\DAL.pdb

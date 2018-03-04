@@ -8,6 +8,7 @@ namespace DAL
 {
     public static class Constants
     {
-        public const string getAllDesignation = "usp_GetAllDesignation";
+        public const string GetAllDesignation = "usp_GetAllDesignation";
+        public const string GetAllEmploymentStatus = "usp_GetAllEmploymentStatus";
     }
 }

@@ -1,4 +1,5 @@
-﻿using BAL;
+﻿using AssignmentProject.Common;
+using BAL;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,12 @@ namespace AssignmentProject.Controllers
         public ActionResult Index()
         {
             List<Designation> designationList = BALClass.GetAllDesignation();
+            List<SelectListItem> designationListItem = CommonFunctions.ConvertDesignationToListItem(designationList);
+            ViewBag.DesignationList = designationListItem;
+
+            List<EmploymentStatus> employmentStatusList = BALClass.GetAllEmploymentStatus();
+            List<SelectListItem> employmentStatusListItem = CommonFunctions.ConvertEmpStatusToListItem(employmentStatusList);
+            ViewBag.EmploymentStatusList = employmentStatusListItem;
 
             return View();
         }
